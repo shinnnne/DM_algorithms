@@ -1,0 +1,5 @@
+﻿  dtree.cpp
+c:\users\10123\desktop\decision_tree\dtree\dtree\dtree.cpp(123): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10123\desktop\decision_tree\dtree\dtree\dtree.cpp(332): warning C4715: “forecast”: 不是所有的控件路径都返回值
+  dtree.vcxproj -> C:\Users\10123\Desktop\decision_tree\dtree\Debug\dtree.exe
+  dtree.vcxproj -> C:\Users\10123\Desktop\decision_tree\dtree\Debug\dtree.pdb (Full PDB)
